@@ -1,6 +1,6 @@
 <h2> Hi there   \ ( •⏝• ) / </h2>
 
-<p> I'm Luke Janssen, a curious individual that loves computers! </p>
+<p> I'm Luke Janssen, a curious individual that loves computers! Aspiring front-end developer.</p>
 
 <h4> What I'm learning 📕 </h4>
 <ul>
