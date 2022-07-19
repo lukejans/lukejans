@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <h2> Hi there   \ ( •⏝• ) / </h2>
 
 <p> I'm Luke Janssen, a curious individual that loves computers! Aspiring front-end developer.</p>
@@ -7,6 +11,9 @@
 <li> HTML / CSS </li>
 <li> JavaScript </li>
 </ul> 
+
+</body>
+</html>
 
 <a href="https://app.daily.dev/Jans"><img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="400" alt="Jans Dev Card"/></a>
 
