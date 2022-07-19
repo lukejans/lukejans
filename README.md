@@ -1,6 +1,4 @@
-# Hello   \ ( •⏝• ) /
-
-# 
+Hello   \ ( •⏝• ) /
 
 I'm Luke Janssen, a curious individual that loves computers!
 
