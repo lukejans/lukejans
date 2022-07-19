@@ -1,4 +1,4 @@
-<h2> Hello   \ ( •⏝• ) / </h2>
+<h2> Hi there   \ ( •⏝• ) / </h2>
 
 I'm Luke Janssen, a curious individual that loves computers!
 
