@@ -7,7 +7,7 @@
    <p> I'm Luke Janssen, a curious individual that loves computers! Aspiring front-end developer.</p>
     
    <fieldset>
-    <legend> <em><strong>What I'm learning 📕</strong></em> </legend>
+    <label> <em><strong>What I'm learning 📕</strong></em> </label>
    <ul>
      <li> html / css </li>
       <ul>
