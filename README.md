@@ -13,7 +13,7 @@
       <ul>
         <li> <em> #### . . . . . . . . </em> </li>
       </ul>
-     <li> javaScript </li>
+     <li> javascript </li>
       <ul>
        <li> <em> ## . . . . . . . . . . </em> </li>
       </ul>
