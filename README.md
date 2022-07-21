@@ -10,7 +10,13 @@
     <legend> <em><strong>What I'm learning 📕</strong></em> </legend>
    <ul>
      <li> HTML / CSS </li>
+      <ul>
+        <li> <em> #### . . . . . . . . </em> </li>
+      </ul>
      <li> JavaScript </li>
+      <ul>
+       <li> <em> ## . . . . . . . . . . </em> </li>
+      </ul>
    </ul> 
    </fieldset>
     
