@@ -14,7 +14,7 @@
         <ul>
           <li> <em> #### . . . . . . . . </em> </li>
         </ul>
-      <li> javascript &typescript </li>
+      <li> javascript & typescript </li>
         <ul>
         <li> <em> ## . . . . . . . . . . </em> </li>
         </ul>
