@@ -10,11 +10,11 @@
     <fieldset>
       <label> <em><strong>What I'm learning 📕</strong></em> </label>
     <ul>
-      <li> html / css </li>
+      <li> html & css </li>
         <ul>
           <li> <em> #### . . . . . . . . </em> </li>
         </ul>
-      <li> javascript </li>
+      <li> javascript &typescript </li>
         <ul>
         <li> <em> ## . . . . . . . . . . </em> </li>
         </ul>
