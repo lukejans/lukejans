@@ -1,6 +1,6 @@
 ### Hello World! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">
 
-I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring Front-End developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), and many more.
+I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), and many more.
 
 - <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="30px"> [The Odin Project](https://www.theodinproject.com/dashboard): Foundations Course ***59% Complete***
 - 🌱 I’m currently learning ...
