@@ -14,6 +14,7 @@
       alt="LinkedIn"
     />
   </a>
+<br>
   <a href="https://stackoverflow.com/users/19284444/luke-jans">
     <img
       src="https://img.shields.io/badge/-Stack Overflow-F3F7FA?logo=Stack Overflow&logoColor=F58025&style=for-the-badge&logoWidth=30"
