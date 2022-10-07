@@ -1,7 +1,7 @@
-<h2>Hello world <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></h2>
+# Hello world <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">
 
 <div align="left">
-   <h4>Connect on:  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width="20px"></h4>
+   <h3>Connect on:  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width="20px"></h3>
   <a href="https://twitter.com/lukejanss">
     <img
       src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30"
@@ -20,9 +20,8 @@
       alt="StackOverflow"
     />
   </a>
-  
   <a href="https://app.daily.dev/Jans" target="_blank">
-    <img
+    <img 
       width="290"
       align="right"
       src="https://api.daily.dev/devcards/48c679302d684afd8651b71f2e7e2a2c.png?r=8vm" 
@@ -31,8 +30,7 @@
   </a>
 </div>
 
-<h3>I'm Luke Janssen</h3>
-
+## I'm Luke Janssen
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), and many more.
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project:</a> Foundations Course <strong>59% Complete</strong>
@@ -52,3 +50,4 @@ I'm a curious individual that loves absorbing any information possible and espec
 - ⚡ Fun fact: ...
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans&label=VISITORS&labelColor=%23f3f7fa&countColor=%23555555&style=flat-square" width="135px"/></a>
 -->
+
