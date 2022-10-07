@@ -1,7 +1,7 @@
 # Hello world <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">
 
 <div align="left">
-   <h3>Connect on:  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width="20px"></h3>
+   <h3>Connect on:  <img src="https://media0.giphy.com/media/iFUrMNDgeOq6lJxvAx/giphy.gif" width="48px"></h3>
   <a href="https://twitter.com/lukejanss">
     <img
       src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30"
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-## I'm Luke Janssen
+## I'm Luke Janssen <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hot-beverage_2615.png" width="30px">
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), [Thinkful](https://www.thinkful.com/), [Coursera](https://www.coursera.org/) and many more.
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project:</a> Foundations Course <strong>59% Complete</strong>
