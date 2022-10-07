@@ -31,7 +31,7 @@
 </div>
 
 ## I'm Luke Janssen
-I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), and many more.
+I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), [Thinkful](https://www.thinkful.com/), [Coursera](https://www.coursera.org/) and many more.
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project:</a> Foundations Course <strong>59% Complete</strong>
 - <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="30px"> Books I'm Reading:
