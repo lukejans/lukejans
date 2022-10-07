@@ -36,7 +36,6 @@
     />
   </a>
 </div>
-<br>
 
 ## I'm Luke Janssen <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hot-beverage_2615.png" width="30px">
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), [Thinkful](https://www.thinkful.com/), [Coursera](https://www.coursera.org/) and many more.
@@ -48,15 +47,22 @@ I'm a curious individual that loves absorbing any information possible and espec
    - <a href="https://www.goodreads.com/book/show/60426951-the-brothers-karamazov">Братья Карамазовы: </a>The Brothers Karamazov
    - <a href="https://www.goodreads.com/book/show/25666050-algorithms-to-live-by?ac=1&from_search=true&qid=WLgN8xP6ga&rank=1">Algorithms to Live By: </a>The Computer Science of Human Decisions
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project: </a>
-   - Foundations Course <strong>59% COMPLETE</strong>
-   - Full Stack JavaScript <strong>NEXT UP</strong>
- 
+   - Foundations Course ***59% COMPLETE***
+   - Full Stack JavaScript ***NEXT UP***
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans&label=VISITORS&labelColor=%23f3f7fa&countColor=%23555555&style=flat-square" width="135px"/></a>
+
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/brain_1f9e0.png" width="30px">
+
+### Skills:
+  <img src="https://img.shields.io/badge/-VS Code-F3F7FA?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/-GitHub-F3F7FA?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub"> <img src="https://img.shields.io/badge/-Lighthouse-F3F7FA?logo=lighthouse&logoColor=F44B21&style=for-the-badge&logoWidth=30" alt="Lighthouse"> <img src="https://img.shields.io/badge/-Bash-F3F7FA?logo=GNU Bash&logoColor=000000&style=for-the-badge&logoWidth=30" alt="BashShell"> <img src="https://img.shields.io/badge/-Markdown-F3F7FA?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Markdown"> <img src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3"> <img src="https://img.shields.io/badge/-Git-F3F7FA?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git"> <img src="https://img.shields.io/badge/-JavaScript-F3F7FA?logo=javascript&logoColor=F4C51C&style=for-the-badge&logoWidth=30" alt="Javascript"> <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=PostgreSQL&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=Tailwind CSS&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
+
 -->
 
