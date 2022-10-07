@@ -22,7 +22,7 @@
   </a>
   <a href="https://app.daily.dev/Jans" target="_blank">
     <img 
-      width="320"
+      width="340"
       align="right"
       src="https://api.daily.dev/devcards/48c679302d684afd8651b71f2e7e2a2c.png?r=8vm" 
       alt="Luke Janssen's Dev Card"
