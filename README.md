@@ -31,7 +31,7 @@
     <img 
       width="340"
       align="right"
-      src="https://api.daily.dev/devcards/48c679302d684afd8651b71f2e7e2a2c.png?r=8vm" 
+      src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" 
       alt="Luke Janssen's Dev Card"
     />
   </a>
