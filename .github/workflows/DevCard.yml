@@ -1,0 +1,27 @@
+name: DevCard
+
+## set write permissions.
+permissions:
+  contents: write
+
+## The workflow_dispatch tells the action it can manually run from the Actions tab.
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+## job that will run the DevCard GitHub action.
+## need to set one variable for our version, 
+## which will be the ID of the DevCard we are fetching.
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          
