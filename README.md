@@ -1,4 +1,4 @@
-<h1>Hello world <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></h1>
+<h2>Hello world <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></h2>
 
 <div align="left">
    <h4>Connect on:  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width="20px"></h4>
@@ -31,7 +31,7 @@
   </a>
 </div>
 
-<h2>I'm Luke Janssen</h2>
+<h3>I'm Luke Janssen</h3>
 
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), and many more.
 
