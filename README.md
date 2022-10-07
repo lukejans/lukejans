@@ -20,8 +20,7 @@
       alt="StackOverflow"
     />
   </a>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans&label=VISITORS&labelColor=%23f3f7fa&countColor=%23555555&style=flat-square" width="135px"/></a>
-
+  
   <a href="https://app.daily.dev/Jans" target="_blank">
     <img
       width="290"
@@ -51,4 +50,5 @@ I'm a curious individual that loves absorbing any information possible and espec
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans&label=VISITORS&labelColor=%23f3f7fa&countColor=%23555555&style=flat-square" width="135px"/></a>
 -->
