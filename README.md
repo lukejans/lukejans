@@ -36,6 +36,7 @@
     />
   </a>
 </div>
+<br>
 
 ## I'm Luke Janssen <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hot-beverage_2615.png" width="30px">
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), [Thinkful](https://www.thinkful.com/), [Coursera](https://www.coursera.org/) and many more.
@@ -49,13 +50,12 @@ I'm a curious individual that loves absorbing any information possible and espec
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project: </a>
    - Foundations Course <strong>59% COMPLETE</strong>
    - Full Stack JavaScript <strong>NEXT UP</strong>
-
+ 
 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flukejans%2Flukejans&label=VISITORS&labelColor=%23f3f7fa&countColor=%23555555&style=flat-square" width="135px"/></a>
 -->
