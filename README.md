@@ -21,6 +21,12 @@
       alt="StackOverflow"
     />
   </a>
+  <a href="https://codepen.io/lukejanss">
+    <img
+      src="https://img.shields.io/badge/-codepen-F3F7FA?logo=CodePen&logoColor=000000&style=for-the-badge&logoWidth=30"
+      alt="CodePen"
+    />
+  </a>
   <a href="https://app.daily.dev/Jans" target="_blank">
     <img 
       width="340"
