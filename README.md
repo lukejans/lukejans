@@ -40,16 +40,15 @@
 ## I'm Luke Janssen <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hot-beverage_2615.png" width="30px">
 I'm a curious individual that loves absorbing any information possible and especially about computers! I'm an aspiring front-end developer that is self taught. I seek education through various online sources and courses like: [Codecademy](https://www.codecademy.com/catalog), [freecodecamp](https://www.freecodecamp.org/learn), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Udacity](https://www.udacity.com/), [Laracasts](https://laracasts.com/), [Thinkful](https://www.thinkful.com/), [Coursera](https://www.coursera.org/) and many more.
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project: </a>
-   - Foundations Course <strong>59% COMPLETE</strong>
-   - Full Stack JavaScript <strong>NEXT UP</strong>
 - <img src="https://i.gifer.com/origin/e4/e4cd0639b5a5c1e164aeff4370ed2365.gif" width="30px"> Books I'm Reading:
    - <a href="https://www.goodreads.com/book/show/10361330-html-and-css">HTML and CSS: </a>Design and Build Websites
    - <a href="https://www.goodreads.com/book/show/61157620-javascript">JavaScript: </a>The Definitive Guide 7th Edition
    - <a href="https://www.goodreads.com/book/show/16219704-javascript-and-jquery">JavaScript and jQuery: </a>Interactive Front-End Web Development
    - <a href="https://www.goodreads.com/book/show/60426951-the-brothers-karamazov">Братья Карамазовы: </a>The Brothers Karamazov
    - <a href="https://www.goodreads.com/book/show/25666050-algorithms-to-live-by?ac=1&from_search=true&qid=WLgN8xP6ga&rank=1">Algorithms to Live By: </a>The Computer Science of Human Decisions
-
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/seedling_1f331.gif" width="22px"> <a href="https://www.theodinproject.com/dashboard">The Odin Project: </a>
+   - Foundations Course <strong>59% COMPLETE</strong>
+   - Full Stack JavaScript <strong>NEXT UP</strong>
 
 
 <!--
