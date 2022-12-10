@@ -15,9 +15,14 @@ books:
       - Eloquent JavaScript: A Modern Introduction to Programming
       - JavaScript: The Definitive Guide 7th edition
       - Secrets of the JavaScript Ninja
+      
+odin project:
+      - foundations course: (77% complete)
+      - fullstack JavaScript: (next)
 ```
 
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
+
 
 
 
