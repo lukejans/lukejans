@@ -3,8 +3,7 @@
 <hr>
 </div>
 <img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="300px" align="right">
-
-<br>
+<hr>
 
 ```JavaScript
 name: Luke Janssen
