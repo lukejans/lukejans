@@ -35,7 +35,28 @@ odin project:
 
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 
-<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="300px" align="right">
+<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="400px" align="right">
+
+<p>
+    <a href="https://twitter.com/lukejanss" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=Twitter&logoColor=blue" />
+    </a> 
+    <a href="https://www.frontendmentor.io/profile/lukejans" target="_blank">
+    <img alt="Frontend Mentor" src="https://img.shields.io/badge/Frontend Mentor-%2312100E.svg?&style=for-the-badge&logo=Frontend Mentor&logoColor=lightblue" />
+    </a> 
+    <a href="https://replit.com/@LukeJanssen1" target="_blank">
+    <img alt="Replit" src="https://img.shields.io/badge/Replit-%2312100E.svg?&style=for-the-badge&logo=Replit&logoColor=orange" />
+    </a> 
+    <a href="https://www.linkedin.com/in/luke-janssen-96592a245/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue" />
+    </a> 
+    <a href="https://discord.gg/NvsVazgDjh" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=brightpurple" />
+    </a> 
+    <a href="https://stackoverflow.com/users/19284444/luke-jans" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-%2312100E.svg?&style=for-the-badge&logo=Stack Overflow&logoColor=orange" />
+    </a>
+</p>
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
