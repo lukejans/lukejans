@@ -1,15 +1,19 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88D828&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Luke+Janssen!" alt="Typing SVG" /></a>
+<hr>
 </div>
+<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="300px" align="right">
 
 ```JavaScript
 name: Luke Janssen
 age: 20
 location: Toronto, Canada
 
-about: a curious individual that loves learning, especially about computer 
-       science! self taugh and an aspiring front-end developer currently 
-       learning JavaScript.
+about: curious individual that loves 
+       learning about programming
+       computers! self taugh and 
+       an aspiring front-end developer 
+       currently learning JavaScript.
        
 books:
       - Eloquent JavaScript: A Modern Introduction to Programming
@@ -21,10 +25,11 @@ odin project:
       - fullstack JavaScript: (next)
 ```
 
+
+
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 
 
-<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="300px">
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
