@@ -28,6 +28,11 @@ currently reading:
 odin project:
       - foundations course: (77% complete)
       - fullstack JavaScript: (next)
+      
+me = person()
+while(me.awake()){
+    me.code()
+}
 ```
 
 
