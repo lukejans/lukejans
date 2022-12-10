@@ -4,6 +4,8 @@
 </div>
 <img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="300px" align="right">
 
+<br>
+
 ```JavaScript
 name: Luke Janssen
 age: 20
