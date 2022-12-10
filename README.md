@@ -5,15 +5,17 @@
 
 ```JavaScript
 name: Luke Janssen
-age: 20
 location: Toronto, Canada
+age: 20
 
-about: 
-       curious individual that loves learning... especially about 
+
+about: curious individual that loves learning... especially about 
        programming computers! self taugh student and an aspiring 
-       front-end developer currently learning JavaScript.
+       front-end developer currently learning JavaScript.      
        
-books:
+----------------------------------------------------------------- 
+
+currently reading:
       - Eloquent JavaScript: A Modern Introduction to Programming
       - JavaScript: The Definitive Guide 7th edition
       - Secrets of the JavaScript Ninja
