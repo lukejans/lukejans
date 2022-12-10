@@ -22,7 +22,7 @@ function aboutMe() {
 books = {
     EloquentJavaScript: 'A Modern Introduction to Programming',
     JavaScript: 'The Definitive Guide 7th edition',
-    JohnResig: 'Secrets of the JavaScript Ninja 2nd edition'
+    JavaScript: 'The Good Parts'
 }
       
 odin project:
