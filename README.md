@@ -10,7 +10,7 @@ profile = {
     firstName: 'Luke',
     lastName: 'Janssen',
     age: 20,
-    location: 'Toronto-Canada'
+    location: 'Toronto, Canada'
 }
 
 function aboutMe() {
@@ -19,11 +19,11 @@ function aboutMe() {
     ront-end developer currently learning JavaScript.      
 }   
 
-
-currently reading:
-      - Eloquent JavaScript: A Modern Introduction to Programming
-      - JavaScript: The Definitive Guide 7th edition
-      - Secrets of the JavaScript Ninja
+books = {
+    EloquentJavaScript: 'A Modern Introduction to Programming',
+    JavaScript: 'The Definitive Guide 7th edition',
+    JohnResig: 'Secrets of the JavaScript Ninja 2nd edition'
+}
       
 odin project:
       - foundations course: (77% complete)
