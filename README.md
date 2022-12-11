@@ -35,7 +35,7 @@ odin project:
 
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 <hr>
-<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="390px" align="right">
+<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="360px" align="right">
 
 
 ```JavaScript
