@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88D828&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Luke+Janssen!" alt="Typing SVG" /></a> 
 </div>
-<div  align="left">
+<div  align="center">
  <pre>
  _____________________ 
 < welcom to my github >
