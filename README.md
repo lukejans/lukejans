@@ -6,6 +6,19 @@
 <hr>
 
 ```JavaScript
+ _____________________ 
+< welcom to my github >
+ --------------------- 
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 profile = {
     firstName: 'Luke',
     lastName: 'Janssen',
@@ -27,8 +40,7 @@ books = {
       
 odin project:
       - foundations course: (77% complete)
-      - fullstack JavaScript: (next)
-      
+      - fullstack JavaScript: (next)    
 ```
 
 
