@@ -19,8 +19,11 @@ jobs:
           # Options
           user: lukejans
           template: terminal
-          base: header
+          base: header, activity, repositories
+          base_hireable: yes
+          base_indepth: yes
           config_timezone: America/Toronto
+          repositories_forks: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
