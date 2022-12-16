@@ -41,7 +41,7 @@ books = {
 }
       
 odin project:
-      - foundations course: (77% complete)
+      - foundations course: (81% complete)
       - fullstack JavaScript: (next)    
 ```
 
