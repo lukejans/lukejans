@@ -38,13 +38,13 @@
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  313</b> commits
+  <b>  314</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    2</b> issues opened
   <b>    0</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 15 repositories - 1 fork - 32.4 MB
+<div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 15 repositories - 1 fork - 32.7 MB
 -r--  <b>    1</b>  stargazer
 -r--  <b>    0</b>  forks
 -r--  <b>   14</b>  watchers
