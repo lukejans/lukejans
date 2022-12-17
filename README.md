@@ -29,6 +29,8 @@ odin project:
       - fullstack JavaScript: (next)    
 ```
 
+<img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
+<hr>
 <img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="400px" align="right">
 
 ```JavaScript
@@ -76,8 +78,6 @@ socials = {
     </a> 
     </p>
 </div>
-
-<img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
