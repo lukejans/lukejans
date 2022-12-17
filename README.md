@@ -29,12 +29,7 @@ odin project:
       - fullstack JavaScript: (next)    
 ```
 
-
-
-<img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
-<hr>
 <img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="360px" align="right">
-
 
 ```JavaScript
 socials = {
@@ -45,16 +40,8 @@ socials = {
     replit: '@LukeJanssen1',
     freeCodeCamp: 'lukejans',
     goodreads: 'luke janssen',
-    leetCode: 'lukejans, (in progress)'
-}
-
-function discordJoin() {
-    const joinMyServer = document.getElementById('discord');
-    let admin = 'jans#0009';
-    joinMyServer.addEventListener('click', () => {
-        prompt(`Welcome to ${admin}'s server!`);
-    }
-    
+    leetCode: 'lukejans, (in progress)',
+    discord: 'jans#0009'
 }
 ```
 
@@ -90,6 +77,7 @@ function discordJoin() {
     </p>
 </div>
 
+<img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
