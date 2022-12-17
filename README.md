@@ -77,7 +77,6 @@ socials = {
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2312100E.svg?&style=for-the-badge&logo=LeetCode&logoColor=#FFA116" />
     </a> 
     </p>
-    <img src="https://64.media.tumblr.com/e390fd80b656f12d7bc87d54d86bdafb/f46f57455623aa2b-14/s1280x1920/a63cf8a1a3518364f0c590185b5757be0671e4f2.png" width="390px">
 </div>
 
 
