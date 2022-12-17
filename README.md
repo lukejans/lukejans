@@ -29,7 +29,7 @@ odin project:
       - fullstack JavaScript: (next)    
 ```
 
-<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="440px" align="right">
+<img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="400px" align="right">
 
 ```JavaScript
 socials = {
