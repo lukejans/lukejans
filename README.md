@@ -1,22 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88D828&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Luke+Janssen!" alt="Typing SVG" /></a> 
 </div>
-<div  align="center">
- <pre>
- _____________________ 
-< welcom to my github >
- --------------------- 
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-</pre>
-</div>
 <img src="https://komarev.com/ghpvc/?username=lukejans&color=green" align="right">
 <hr>
 
