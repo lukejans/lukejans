@@ -34,19 +34,19 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Luke Janssen</b> registered=1y, uid=0392, gid=0
-  contributed to 20 repositories <b><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 20 repositories <b><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  323</b> commits
+  <b>  324</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    2</b> issues opened
   <b>    0</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>HTML        </b> [##########          ] 48.44%
-<b>CSS         </b> [#########           ] 41.55%
-<b>JAVASCRIPT  </b> [###                 ] 10.02%
+<div class="stdin"><span class="ps1-path">lukejans@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>HTML        </b> [##########          ] 48.48%
+<b>CSS         </b> [#########           ] 41.51%
+<b>JAVASCRIPT  </b> [###                 ] 10.01%
 </div>
 
 </pre>
