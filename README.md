@@ -26,7 +26,7 @@ books = {
       
 odin project:
       - foundations course: (complete)
-      - fullstack JavaScript: (1% progress)    
+      - fullstack JavaScript: (9% progress)    
 ```
 
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
