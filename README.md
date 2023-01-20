@@ -24,9 +24,10 @@ books = {
     JavaScript: 'The Good Parts'
 }
       
-odin project:
-      - foundations course: (complete)
-      - fullstack JavaScript: (9% progress)    
+odin project = {
+    foundationsCourse: 'complete',
+    fullstackJavaScript: '9% progress',
+}
 ```
 
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
@@ -41,9 +42,7 @@ socials = {
     stackOverflow: 'luke jans',
     replit: '@LukeJanssen1',
     freeCodeCamp: 'lukejans',
-    goodreads: 'luke janssen',
     leetCode: 'lukejans, (in progress)',
-    discord: 'jans#0009'
 }
 ```
 
@@ -64,15 +63,6 @@ socials = {
     <a href="https://replit.com/@LukeJanssen1" target="_blank">
     <img alt="Replit" src="https://img.shields.io/badge/Replit-%2312100E.svg?&style=for-the-badge&logo=Replit&logoColor=orange" />
     </a>
-    <a href="https://www.freecodecamp.org/lukejans" target="_blank">
-    <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-%2312100E.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=#0A0A23" />
-    </a>
-    <a href="https://www.goodreads.com/user/show/155036453-luke-janssen" target="_blank">
-    <img alt="Goodreads" src="https://img.shields.io/badge/Goodreads-%2312100E.svg?&style=for-the-badge&logo=Goodreads&logoColor=brown" />
-    </a>
-    <a href="https://discord.gg/NvsVazgDjh" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord&logoColor=brightpurple" />
-    </a>
     <a href="https://leetcode.com/lukejans/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2312100E.svg?&style=for-the-badge&logo=LeetCode&logoColor=#FFA116" />
     </a> 
@@ -84,6 +74,9 @@ socials = {
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<a href="https://www.freecodecamp.org/lukejans" target="_blank">
+    <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-%2312100E.svg?&style=for-the-badge&logo=freeCodeCamp&logoColor=#0A0A23" />
+    </a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
