@@ -14,7 +14,7 @@ profile = {
 
 function aboutMe() {
     curious individual that loves learning, especially about 
-    programming computers! self taugh student and an aspiring 
+    programming computers! self taught student and an aspiring 
     front-end developer currently learning JavaScript.      
 }   
 
