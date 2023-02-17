@@ -26,7 +26,7 @@ books = {
       
 odin project = {
     foundationsCourse: 'complete',
-    fullstackJavaScript: '9% progress',
+    fullstackJavaScript: '11% progress',
 }
 ```
 
