@@ -3,33 +3,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=lukejans&color=green" align="right">
 <hr>
-
-```JavaScript
-profile = {
-    firstName: 'Luke',
-    lastName: 'Janssen',
-    age: 20,
-    location: 'Toronto, Canada'
-}
-
-function aboutMe() {
-    curious individual that loves learning, especially about 
-    programming computers! self taught student and an aspiring 
-    front-end developer currently learning JavaScript.      
-}   
-
-books = {
-    EloquentJavaScript: 'A Modern Introduction to Programming',
-    JavaScript: 'The Definitive Guide 7th edition',
-    JavaScript: 'The Good Parts'
-}
-      
-odin project = {
-    foundationsCourse: 'complete',
-    fullstackJavaScript: '11% progress',
-}
-```
-
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
 <hr>
 <img src="https://github.com/lukejans/lukejans/blob/main/devcard.svg" width="400px" align="right">
