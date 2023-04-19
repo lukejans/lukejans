@@ -7,7 +7,8 @@
 /____/\_,_/_/\_\\__/  \___/\_,_/_//_/___/
                                                                                 
 ```
-
+</div>
+                                                              
 <img src="https://komarev.com/ghpvc/?username=lukejans&color=green" align="right">
 <hr>
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
@@ -25,6 +26,7 @@ socials = {
     freeCodeCamp: 'lukejans',
     leetCode: 'lukejans, (in progress)',
 }
+ 
 ```
 
 <div align="left">
