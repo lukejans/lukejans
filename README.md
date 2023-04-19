@@ -1,6 +1,13 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88D828&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Luke+Janssen!" alt="Typing SVG" /></a> 
-</div>
+
+ ```
+   __        __            __            
+  / /  __ __/ /_____   __ / /__ ____  ___
+ / /__/ // /  '_/ -_) / // / _ `/ _ \(_-<
+/____/\_,_/_/\_\\__/  \___/\_,_/_//_/___/
+                                           
+```
+
 <img src="https://komarev.com/ghpvc/?username=lukejans&color=green" align="right">
 <hr>
 <img src="https://github.com/lukejans/lukejans/blob/main/github-metrics.svg" width="100%">
@@ -45,6 +52,10 @@ socials = {
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+// text animation
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88D828&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Luke+Janssen!" alt="Typing SVG" /></a> 
+</div>
 
 Here are some ideas to get you started:
 <a href="https://www.freecodecamp.org/lukejans" target="_blank">
