@@ -13,7 +13,7 @@
  
 socials = {
     linkedIn: 'Luke Janssen',
-    twitter: 'lukejanss',
+    x: 'lukejanss',
     frontendMentor: 'lukejans',
     stackOverflow: 'luke jans',
     replit: '@LukeJanssen1',
