@@ -13,12 +13,11 @@
  
 socials = {
     linkedIn: 'Luke Janssen',
-    x: 'lukejanss',
     frontendMentor: 'lukejans',
     stackOverflow: 'luke jans',
     replit: '@LukeJanssen1',
     freeCodeCamp: 'lukejans',
-    leetCode: 'lukejans, (in progress)',
+    leetCode: 'lukejans,',
 }
  
 ```
