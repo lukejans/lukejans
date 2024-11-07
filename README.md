@@ -9,18 +9,6 @@
 
 </div>
                                                               
-```JavaScript
- 
-socials = {
-    linkedIn: 'Luke Janssen',
-    frontendMentor: 'lukejans',
-    stackOverflow: 'luke jans',
-    replit: '@LukeJanssen1',
-    freeCodeCamp: 'lukejans',
-    leetCode: 'lukejans,',
-}
- 
-```
 
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
