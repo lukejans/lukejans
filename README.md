@@ -17,8 +17,8 @@
 ```JavaScript
 #!/usr/bin/env node
 
-(() => {
-  let aboutMe = {
+const aboutMe = (() => {
+  return {
     name: 'Luke Janssen',
     age: 22,
     code: ['JavaScript', 'Python', 'Java', 'HTML', 'CSS'],
@@ -26,8 +26,6 @@
     os: ['macOS', 'linux'],
     shells: ['zsh', 'bash', 'sh']
   };
-
-  return aboutMe;
 })();
 ```
 
@@ -45,9 +43,3 @@
 <!--
 **lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-<!--
-**lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
