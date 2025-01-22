@@ -24,7 +24,7 @@ const aboutMe = (() => {
     code: ['JavaScript', 'Python', 'Java', 'HTML', 'CSS'],
     tools: ['Git', 'Node', 'PostCSS', 'Jest'],
     os: ['macOS', 'linux'],
-    shells: ['zsh', 'bash', 'sh']
+    shell: 'zsh'
   };
 })();
 ```
