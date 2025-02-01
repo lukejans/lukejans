@@ -31,7 +31,7 @@ const aboutMe = (() => {
 
 ## More Info
 - 🌱 Learning: `<web-components> </web-components>`
-- 🔭 Looking to collaborate on: with other students using these languages `aboutMe.code`.
+- 🔭 Looking to collaborate with: other students using these languages `aboutMe.code`.
 - 💬 Ask me about: anything
 - 📫 Message me on: [LinkedIn](https://www.linkedin.com/in/luke-janssen-96592a245/)
 - ⚡ Fun fact: I'm mostly self-taught
