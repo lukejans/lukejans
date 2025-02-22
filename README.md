@@ -1,3 +1,7 @@
+<!--
+**lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <div align="center">
    <pre>
    __        __            __            
@@ -21,25 +25,20 @@ const aboutMe = (() => {
   return {
     name: 'Luke Janssen',
     age: 22,
-    code: ['JavaScript', 'Python', 'Java', 'HTML', 'CSS'],
-    tools: ['Git', 'Node', 'PostCSS', 'Jest'],
-    os: ['macOS', 'linux'],
-    shell: 'zsh'
+    code: ['js', 'sh', 'py', 'java', 'ino', 'html', 'css'],
+    os: 'Unix-based systems',
+    learning: 'cross-platform development',
+    funFact: "I'm mostly all self taught",
+
+    collaborate() {
+      return `looking to collaborate using: ${this.code}`
+    },
   };
 })();
-```
 
-## More Info
-- 🌱 Learning: `<web-components> </web-components>`
-- 🔭 Looking to collaborate with: other students using these languages `aboutMe.code`.
-- 💬 Ask me about: anything
-- 📫 Message me on: [LinkedIn](https://www.linkedin.com/in/luke-janssen-96592a245/)
-- ⚡ Fun fact: I'm mostly self-taught
+console.log(aboutMe);
+```
 
 ---
 > “If you're going to try, go all the way. Otherwise, don't even start...”
 >> Charles Bukowski
-
-<!--
-**lukejans/lukejans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
