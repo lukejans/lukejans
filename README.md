@@ -27,7 +27,7 @@ console.log("aboutMe", {
   code: ["js", "sh", "py", "java", "ino", "html", "css"],
   os: "Unix-based systems",
   learning: "cross-platform development",
-  funFact: "I'm mostly all self taught",
+  funFact: "I'm mostly self taught",
 
   collaborate() {
     return `looking to collaborate using: ${this.code}`;
