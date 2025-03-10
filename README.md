@@ -21,22 +21,18 @@
 ```JavaScript
 #!/usr/bin/env node
 
-const aboutMe = (() => {
-  return {
-    name: 'Luke Janssen',
-    age: 22,
-    code: ['js', 'sh', 'py', 'java', 'ino', 'html', 'css'],
-    os: 'Unix-based systems',
-    learning: 'cross-platform development',
-    funFact: "I'm mostly all self taught",
+console.log("aboutMe", {
+  name: "Luke Janssen",
+  age: 22,
+  code: ["js", "sh", "py", "java", "ino", "html", "css"],
+  os: "Unix-based systems",
+  learning: "cross-platform development",
+  funFact: "I'm mostly all self taught",
 
-    collaborate() {
-      return `looking to collaborate using: ${this.code}`
-    },
-  };
-})();
-
-console.log(aboutMe);
+  collaborate() {
+    return `looking to collaborate using: ${this.code}`;
+  },
+});
 ```
 
 ---
