@@ -12,9 +12,11 @@
     <p>
        <em>A curious individual with a passion for learning</em>
     </p>
+    <!-- 
     <img alt="views" src="https://komarev.com/ghpvc/?username=lukejans&label=views">
     <img alt="open source" src="https://img.shields.io/badge/open_source-gray?logo=undertale&logoColor=red&labelColor=turquoise">
-    <img alt="caffinated" src="https://img.shields.io/badge/caffeinated-gray?logo=coffeescript&logoColor=white&labelColor=5B4638">
+    <img alt="caffinated" src="https://img.shields.io/badge/caffeinated-gray?logo=coffeescript&logoColor=white&labelColor=5B4638"> 
+    -->
 </div>
 
 ## About me 
