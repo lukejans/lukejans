@@ -29,6 +29,7 @@ console.log("aboutMe", {
   code: ["js", "sh", "py", "java", "ino", "html", "css"],
   os: "Unix-based systems",
   learning: "cross-platform development",
+  interests: ["Formula 1", "Traveling", "STEM"] 
   funFact: "I'm mostly self taught",
 
   collaborate() {
