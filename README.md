@@ -23,19 +23,19 @@
 ```JavaScript
 #!/usr/bin/env node
 
-console.log("aboutMe", {
+const aboutMe = {
   name: "Luke Janssen",
   age: 22,
-  code: ["js", "sh", "py", "java", "ino", "html", "css"],
+  code: ["js", "jsx", "sh", "java", "py", "ino", "html", "css"],
   os: "Unix-based systems",
-  learning: "cross-platform development",
+  learning: "Cross-platform development",
   interests: ["Formula 1", "Traveling", "STEM"],
   funFact: "I'm mostly self taught",
 
   collaborate() {
     return `looking to collaborate using: ${this.code}`;
   },
-});
+};
 ```
 
 ---
