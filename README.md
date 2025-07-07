@@ -14,11 +14,10 @@ const aboutMe = {
    interests: ["Formula 1", "Traveling", "STEM"],
    quote: [
       "If you're going to try, go all the way. Otherwise, don't even start...",
-      "Charles Bukowski"
+      "-- Charles Bukowski"
    ],
-
-  collaborate() {
-    return `looking to collaborate using: ${this.code}`;
-  }
+   collaborate() {
+      return `looking to collaborate using: ${this.code}`;
+   }
 };
 ```
