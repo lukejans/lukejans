@@ -7,7 +7,7 @@
 const aboutMe = {
    name: "Luke Janssen",
    bio: "A curious individual with a passion for learning",
-   learning: "Cross-platform development",
+   learning: "SQL & Server Side Programming",
    interests: ["Formula 1", "Traveling", "STEM"],
    quote: [
       "If you're going to try, go all the way. Otherwise, don't even start...",
